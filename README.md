@@ -46,6 +46,21 @@
 
 ---
 
+## n8n 총정리 요약본 / Summary Guide
+
+인프런 강의 수강생과 독자를 위한 26쪽 참고서. 학습 안내, 데이터 구조, JSON 문법, 표현식, LLM에 JSON 넣고 받기, 핵심 노드, 자격증명, 셀프호스팅, 트러블슈팅, 주차별 미션.
+
+| 자료 / Resource | 설명 / Description | 링크 / Link |
+|------|------|------|
+| n8n 총정리 요약본 (PDF, 26쪽) | 막혔을 때 먼저 펼쳐 보는 한 권짜리 참고서 | [바로가기](./05-n8n-summary/) · [PDF](./05-n8n-summary/n8n-총정리-요약본.pdf) |
+
+<p align="center">
+  <img src="./05-n8n-summary/images/05-expressions.png" alt="표현식 총정리" width="48%"/>
+  <img src="./05-n8n-summary/images/06-llm-json.png" alt="LLM에 JSON 넣고 받기" width="48%"/>
+</p>
+
+---
+
 ## 치트시트 / Cheatsheet
 
 | 자료 / Resource | 설명 / Description | 링크 / Link |
